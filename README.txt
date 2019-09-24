@@ -1,3 +1,7 @@
+[![Build Status](https://dev.azure.com/esy-packages/esy-portaudio/_apis/build/status/esy-packages.esy-portaudio?branchName=master)](https://dev.azure.com/esy-packages/esy-portaudio/_build/latest?definitionId=10&branchName=master)
+
+# Esy-enabled build for portaudio
+
 README for PortAudio
 
 /*
